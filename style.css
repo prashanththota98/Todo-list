@@ -60,7 +60,7 @@
 
 .button {
   color: white;
-  background-color: #4c63b6;
+  background-color: red;
   font-family: "Roboto";
   font-size: 18px;
   border-width: 0;
@@ -117,3 +117,5 @@
 .checked {
   text-decoration: line-through;
 }
+
+/* #4c63b6 */
